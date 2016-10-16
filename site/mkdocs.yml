@@ -1,8 +1,3 @@
 site_name: Testsite
 site_description: Description of the description
 theme: readthedocs
-pages:
-- ['index.md', 'Index']
-- ['Page1.md', 'Configuration', 'Page1']
-- ['Page2.md', 'Configuration', 'Page2']
-- ['Page3.md', 'Setup', 'Page3']
