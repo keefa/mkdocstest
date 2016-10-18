@@ -1,0 +1,14 @@
+site_name: Testsite
+site_description: Description of the description
+theme: readthedocs
+markdown_extensions:
+  - admonition
+extra:
+  version: '0.1.0'
+  extra:
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
